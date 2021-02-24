@@ -6,6 +6,8 @@ import sys
 # use .ui file without converting to .py
 main_window, _ = loadUiType('main.ui')
 
+print("this line is for test")
+
 
 # database for application
 class Database:
