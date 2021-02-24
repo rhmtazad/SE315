@@ -12,4 +12,5 @@ function sayHello(message, element, color) {
 // gives an alert that website is under constraction
 function submissionAlert(message) {
   alert("Oops!\nWebsite under constraction...");
+  alert("This is a test...");
 }
